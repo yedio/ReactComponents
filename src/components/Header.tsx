@@ -1,8 +1,8 @@
-import React from 'react';
-import styled from 'styled-components';
+import React from "react";
+import styled from "styled-components";
 
 export default function Header() {
-  return <NavWrapper>React Hook</NavWrapper>;
+  return <NavWrapper>React Components</NavWrapper>;
 }
 
 const NavWrapper = styled.section`
