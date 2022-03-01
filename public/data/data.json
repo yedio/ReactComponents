@@ -1,0 +1,42 @@
+{
+  "results": [
+    {
+      "room_id": 1,
+      "title": "[오픈기념할인] 베니스에서 아침을~ #방역소독완료 #베네치아감성",
+      "price": 149033.0,
+      "days": 1,
+      "room_detail": {
+        "max_guest": 4,
+        "bedroom": 1,
+        "bed": 1,
+        "bath": 1
+      },
+      "images": [
+        "https://cdn.pixabay.com/photo/2016/11/18/17/20/living-room-1835923_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2017/09/09/18/25/living-room-2732939_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2015/10/20/18/57/furniture-998265_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2017/03/22/17/39/kitchen-2165756_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2017/08/27/10/16/interior-2685521_960_720.jpg"
+      ]
+    },
+    {
+      "room_id": 2,
+      "title": "[무족권 70%할인] 위코드에서 아침을~ 다같이 죽어보자",
+      "price": 784000.0,
+      "days": 2,
+      "room_detail": {
+        "max_guest": 34,
+        "bedroom": 0,
+        "bed": 0,
+        "bath": 1
+      },
+      "images": [
+        "https://cdn.pixabay.com/photo/2017/09/09/18/25/living-room-2732939_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2016/11/18/17/20/living-room-1835923_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2015/10/20/18/57/furniture-998265_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2017/03/22/17/39/kitchen-2165756_960_720.jpg",
+        "https://cdn.pixabay.com/photo/2017/08/27/10/16/interior-2685521_960_720.jpg"
+      ]
+    }  
+  ]
+}
