@@ -1,8 +1,13 @@
-import React from 'react';
-import styled from 'styled-components';
+import React from "react";
+import styled from "styled-components";
+import PageSkeleton from "../Skeleton/PageSkeleton";
 
 export default function Main() {
-  return <Wrapper>MAIN</Wrapper>;
+  return (
+    <Wrapper>
+      <PageSkeleton />
+    </Wrapper>
+  );
 }
 
 const Wrapper = styled.div`
